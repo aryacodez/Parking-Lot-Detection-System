@@ -1,1 +1,1 @@
-# Parking-Lot-Detection-System
+# Smart-Car-Parking-Detection-System
